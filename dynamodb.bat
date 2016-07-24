@@ -1,0 +1,1 @@
+java %JAVA_OPTS% -Djava.library.path=DynamoDBLocal_lib -jar DynamoDBLocal\DynamoDBLocal.jar -port %PORT% -optimizeDbBeforeStartup -dbPath DynamoDBLocal
