@@ -1,1 +1,2 @@
-web: dynamodb
+web: ./dynamodb
+web-win: dynamodb
